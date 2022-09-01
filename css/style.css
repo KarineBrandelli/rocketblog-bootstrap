@@ -3,6 +3,11 @@
     border-bottom: .5rem solid #4fff4b; 
 }
 
+.pesquisar {
+    border: none;
+    background-color: #170027;
+}
+
 h1 {
     font-family: 'Poppins';    
     color: #9e6dc2;
@@ -24,11 +29,6 @@ h1 {
 
 .card-title {
     color: #290742;
-}
-
-.pesquisar {
-    border: none;
-    background-color: #170027;
 }
 
 .btn-success {
