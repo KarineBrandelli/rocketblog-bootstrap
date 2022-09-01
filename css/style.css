@@ -1,0 +1,46 @@
+.background-purple {
+    background-color: #290742;
+    border-bottom: .5rem solid #4fff4b; 
+}
+
+h1 {
+    font-family: 'Poppins';    
+    color: #9e6dc2;
+}
+
+.main-content-text {
+    font-family: 'Poppins';  
+}
+
+.anchor-main {
+    font-family: 'Poppins';
+    color: #9e6dc2;
+}
+
+.bi-arrow-right-short {
+    font-size: 2rem;
+    color: #4fff4b;
+}
+
+.card-title {
+    color: #290742;
+}
+
+.pesquisar {
+    border: none;
+    background-color: #170027;
+}
+
+.btn-success {
+    border: none;
+    background-color: #9e6dc2;
+}
+
+.bi-search {
+    color: white;
+}
+
+.pesquisar::placeholder {
+    color: white;
+}
+
