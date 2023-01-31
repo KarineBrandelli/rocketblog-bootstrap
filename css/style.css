@@ -1,54 +1,39 @@
+* {
+  font-family: "Poppins";
+}
+
 .background-purple {
-    background-color: #290742;
-    border-bottom: .5rem solid #4fff4b; 
+  background-color: #290742;
+  border-bottom: 0.5rem solid #4fff4b;
 }
 
 input {
-    background-color: #170027;
+  background-color: #170027;
 }
 
-h1 {
-    font-family: 'Poppins';    
-    color: #9e6dc2;
-}
-
-.main-content-text {
-    font-family: 'Poppins';  
-}
-
+h1,
 .anchor-main {
-    font-family: 'Poppins';
-    color: #9e6dc2;
+  color: #9e6dc2;
 }
 
 .bi-arrow-right-short {
-    font-size: 2rem;
-    color: #4fff4b;
+  color: #4fff4b;
 }
 
 .card-title {
-    color: #290742;
+  color: #290742;
 }
 
 .btn-success {
-    border: none;
-    background-color: #9e6dc2;
-}
-
-.bi-search {
-    color: white;
+  border: none;
+  background-color: #9e6dc2;
 }
 
 .navbar-toggler {
-    background-color: #9e6dc2;
-    padding: .5rem .9rem;    
+  background-color: #9e6dc2;
+  padding: 0.5rem 0.9rem;
 }
 
 .bi-list {
-    color: white;
-    font-size: 1.75rem;
+  font-size: 1.75rem;
 }
-
-
-
-
